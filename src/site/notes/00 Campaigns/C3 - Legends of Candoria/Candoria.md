@@ -14,7 +14,7 @@ Candoria’s rivers, mountains, and highland belts have made settlement and expl
 
 ---
 
-## Planetary Environment
+## Environment
 
 Candoria’s continents are covered by extensive temperate forests, many of which appear extremely old by planetary standards. Tree growth forms layered canopies that block much of the sunlight from reaching the forest floor, creating cool, dim conditions beneath the upper branches.
 
