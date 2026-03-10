@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"layout":"page","title":"Candoria","collection":"planets","dg-path":"planets/candoria","date":"2026-03-10","toc":"true","enable-toc":"true","permalink":"/planets/candoria/","dgPassFrontmatter":true}
+{"dg-publish":true,"layout":"post","title":"Candoria","collection":"planets","dg-path":"planets/candoria","date":"2026-03-10","toc":"true","permalink":"/planets/candoria/","dgPassFrontmatter":true}
 ---
 
 # Overview
