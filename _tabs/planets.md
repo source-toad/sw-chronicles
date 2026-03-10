@@ -8,7 +8,7 @@ permalink: /planets/
 
 ## Planets
 
-{% raw %}{% assign sorted = site.planets | sort: "title" %}{% endraw %}
-{% raw %}{% for planet in sorted %}{% endraw %}
-- [{% raw %}{{ planet.title }}{% endraw %}]({% raw %}{{ planet.url | relative_url }}{% endraw %})
-{% raw %}{% endfor %}{% endraw %}
+{% assign sorted = site.planets | sort: "title" %}
+{% for planet in sorted %}
+- [{{ planet.title }}]({{ planet.url | relative_url }})
+{% endfor %}
