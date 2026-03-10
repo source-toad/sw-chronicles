@@ -2,7 +2,9 @@
 {"dg-publish":true,"layout":"post","title":"Candoria","collection":"planets","dg-path":"planets/candoria","date":"2026-03-10","toc":"true","permalink":"/planets/candoria/","dgPassFrontmatter":true}
 ---
 
-# Overview
+# Candoria
+
+## Overview
 
 Candoria is a temperate forest world in the Mid Rim, in a system adjacent to one of the early long-distance trade corridors connecting a handful of developing star systems toward the Coreward regions. While it has never been a major hub, occasional travellers, merchants, and scouts pass through the system.
 
@@ -14,7 +16,7 @@ Candoria’s rivers, mountains, and highland belts have made settlement and expl
 
 ---
 
-# Planetary Environment
+## Planetary Environment
 
 Candoria’s continents are covered by extensive temperate forests, many of which appear extremely old by planetary standards. Tree growth forms layered canopies that block much of the sunlight from reaching the forest floor, creating cool, dim conditions beneath the upper branches.
 
@@ -28,7 +30,7 @@ Wildlife on Candoria tends toward large herbivores adapted to the dense vegetati
 
 ---
 
-# The Uplands
+## The Uplands
 
 Across Candoria’s continents, long mountain ranges rise gradually from the surrounding forests, forming wide belts of elevated highland terrain before the peaks themselves begin. Rather than abrupt mesas or isolated plateaus, these regions are characterised by broad upland slopes, broken ridges, and open highland valleys that stretch for hundreds of kilometres along the mountain fronts.
 
@@ -57,7 +59,7 @@ These highlands share several characteristics:
 
 ---
 
-# Population
+## Population
 
 In the present era, Candoria remains a lightly settled frontier world.
 
