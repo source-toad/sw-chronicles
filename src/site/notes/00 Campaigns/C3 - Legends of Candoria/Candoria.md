@@ -69,5 +69,3 @@ Activity on the planet typically revolves around:
 - Small agricultural or hunting communities established on the highland slopes
 
 Beyond the inhabited uplands, much of Candoria’s surface remains only loosely explored. The immense forest canopy limits aerial visibility, and large portions of the lowlands have never been surveyed in detail. That said, small communities of forest-dwellers are known to exist, though can be impossible to find, even if you have visited before. These forest-dwellers can often be hostile and fearful of outsiders.
-
-<h2>-</h2>
