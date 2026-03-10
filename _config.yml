@@ -170,6 +170,8 @@ collections:
   tabs:
     output: true
     sort_by: order
+  planets:
+    output: true
 
 defaults:
   - scope:
@@ -192,6 +194,10 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+  - scope:
+      path: "src/site/notes/00 Campaigns"
+    values:
+      layout: page
 
 sass:
   style: compressed
