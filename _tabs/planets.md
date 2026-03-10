@@ -6,8 +6,6 @@ order: 2
 permalink: /planets/
 ---
 
-## Planets
-
 {% if site.planets.size > 0 %}
   {% assign sorted = site.planets | sort: "title" %}
   {% for planet in sorted %}
