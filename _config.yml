@@ -204,6 +204,7 @@ defaults:
       path: "src/site/notes/00 Campaigns/C3 - Legends of Candoria"
     values:
       layout: page
+      toc: true
 
 sass:
   style: compressed
