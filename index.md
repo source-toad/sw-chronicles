@@ -7,7 +7,7 @@ order: 1
 
 # Star Wars Chronicles
 
-Welcome to the campaign archive.
+Welcome to the campaign archive. The archives? They must be incomplete.
 
 ## Setting
 
