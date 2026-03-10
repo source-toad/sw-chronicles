@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/00 Campaigns/C3 - Legends of Candoria/Candoria/","title":"Candoria"}
+{"dg-publish":true,"layout":"page","title":"Candoria","permalink":"/00 Campaigns/C3 - Legends of Candoria/Candoria/","collection":"planets","dgPassFrontmatter":true}
 ---
 
 ### Overview
 
-Candoria is a temperate forest world in the **Mid Rim**, situated along one of the region’s **early long-distance trade corridors** connecting a handful of developing star systems toward the Coreward regions. While it has never been a major hub, occasional travellers, merchants, and scouts pass through these routes, often noting the planet’s unusual combination of dense forests, upland highlands, and hints of ancient occupation. 
+Candoria is a temperate forest world in the **Mid Rim**, situated along one of the region’s **early long-distance trade corridors** connecting a handful of developing star systems toward the Coreward regions. While it has never been a major hub, occasional travellers, merchants, and scouts pass through these routes, often noting the planet’s unusual combination of dense forests, upland highlands, and hints of ancient occupation.  
 
 The planet’s continents are dominated by **vast, multilayered forests** that stretch for thousands of kilometres. Towering trees form dense canopies that block much of the sunlight from reaching the forest floor, creating dim and cool conditions beneath. The forests themselves are largely unbroken, interrupted only by **river valleys, exposed ridges, and the gradual ascent toward mountain ranges**, where the terrain opens into broader **highland belts**.
 
