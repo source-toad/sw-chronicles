@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lore/Candoria","permalink":"/Lore/Candoria/","title":"Candoria"}
+{"dg-publish":true,"permalink":"/00 Campaigns/C3 - Legends of Candoria/Candoria/","title":"Candoria"}
 ---
 
 ### Overview
