@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lore/Candoria","permalink":"/lore/candoria/","title":"Candoria"}
+{"dg-publish":true,"dg-path":"Lore/Candoria","permalink":"/Lore/Candoria/","title":"Candoria"}
 ---
 
 ### Overview
