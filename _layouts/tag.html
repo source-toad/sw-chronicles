@@ -1,14 +1,3 @@
 ---
-layout: page
+layout: tag
 ---
-
-<h1>{{ page.title }}</h1>
-
-<ul>
-{% assign docs = site.documents | where_exp: "item", "item.tags contains page.tag" %}
-{% for doc in docs %}
-  <li>
-    <a href="{{ doc.url | relative_url }}">{{ doc.title }}</a>
-  </li>
-{% endfor %}
-</ul>
