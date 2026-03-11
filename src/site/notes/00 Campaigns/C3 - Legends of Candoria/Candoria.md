@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"layout":"post","title":"Candoria","collection":"planets","dg-path":"planets/candoria","date":"2026-03-10","toc":"true","toc-depth":"3","permalink":"/planets/candoria/","dgPassFrontmatter":true}
+{"dg-publish":true,"layout":"post","title":"Candoria","collection":"planets","dg-path":"planets/candoria","date":"2026-03-10","toc":"true","permalink":"/planets/candoria/","dgPassFrontmatter":true}
 ---
+
+<h2 style="display:none;">This is a Wiki Page</h2>
 
 ## Overview
 
