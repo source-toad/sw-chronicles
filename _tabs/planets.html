@@ -1,0 +1,59 @@
+---
+layout: page
+title: Planets
+icon: fas fa-globe
+order: 2
+permalink: /planets/
+---
+
+{% include lang.html %}
+
+{% assign HEAD_PREFIX = 'h_' %}
+{% assign LIST_PREFIX = 'l_' %}
+{% assign group_index = 0 %}
+
+{% assign sorted_planets = site.pages | where:"collection","planets" | sort: "title" %}
+
+{% if sorted_planets.size > 0 %}
+<div class="card planets">
+  <!-- header -->
+  <div id="{{ HEAD_PREFIX }}{{ group_index }}" class="card-header d-flex justify-content-between hide-border-bottom">
+    <span class="ms-2">
+      <i class="fas fa-globe fa-fw"></i>
+      {{ page.title }}
+
+      <!-- count of planets -->
+      <span class="text-muted small ps-2">{{ sorted_planets.size }}</span>
+    </span>
+
+    <!-- arrow (disabled since no sub-groups yet) -->
+    <span data-bs-toggle="collapse" class="category-trigger hide-border-bottom disabled">
+      <i class="fas fa-fw fa-angle-right"></i>
+    </span>
+  </div>
+
+  <!-- planets list -->
+  <div id="{{ LIST_PREFIX }}{{ group_index }}" class="collapse show" aria-expanded="true">
+    <ul class="list-group">
+      {% for planet in sorted_planets %}
+        <li class="list-group-item d-flex justify-content-between align-items-center">
+          <span>
+            {% if planet.icon %}
+              <i class="{{ planet.icon }} fa-fw me-2"></i>
+            {% else %}
+              <i class="fas fa-globe fa-fw me-2"></i>
+            {% endif %}
+            <a href="{{ planet.url | relative_url }}">{{ planet.title }}</a>
+          </span>
+          {% if planet.date %}
+            {% include datetime.html date=planet.date class='text-muted small text-nowrap' lang=lang %}
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+{% else %}
+<p class="text-muted fst-italic">_No planets yet..._</p>
+{% endif %}
