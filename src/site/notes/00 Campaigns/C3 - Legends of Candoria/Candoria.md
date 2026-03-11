@@ -2,9 +2,7 @@
 {"dg-publish":true,"layout":"post","title":"Candoria","collection":"planets","dg-path":"planets/candoria","date":"2026-03-10","toc":"true","permalink":"/planets/candoria/","dgPassFrontmatter":true}
 ---
 
-<h2 style="display:none;"></h2>
-
-## Overview
+<h2> Overview </h2>
 
 Candoria is a temperate forest world in the Mid Rim, in a system adjacent to one of the early long-distance trade corridors connecting a handful of developing star systems toward the Coreward regions. While it has never been a major hub, occasional travellers, merchants, and scouts pass through the system.
 
