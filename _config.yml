@@ -155,11 +155,13 @@ baseurl: "/sw-chronicles"
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
+  input: GFM             # use GitHub Flavored Markdown
+  auto_ids: true         # generate IDs for headers
+  toc_levels: 1..6       # include heading levels in TOC
   footnote_backlink: "&#8617;&#xfe0e;"
   syntax_highlighter: rouge
-  syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
+  syntax_highlighter_opts:
     css_class: highlight
-    # default_lang: console
     span:
       line_numbers: false
     block:
