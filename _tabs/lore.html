@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Planets
-icon: fas fa-globe
+title: Lore
+icon: fas fa-book
 order: 2
-permalink: /planets/
+permalink: /lore/
 ---
 
 {% include lang.html %}
@@ -12,41 +12,41 @@ permalink: /planets/
 {% assign LIST_PREFIX = 'l_' %}
 {% assign group_index = 0 %}
 
-{% assign sorted_planets = site.pages | where:"collection","planets" | sort: "title" %}
+{% assign sorted_lore = site.lore | sort: "title" %}
 
-{% if sorted_planets.size > 0 %}
-<div class="card planets">
+{% if sorted_lore.size > 0 %}
+<div class="card lore">
   <!-- header -->
   <div id="{{ HEAD_PREFIX }}{{ group_index }}" class="card-header d-flex justify-content-between hide-border-bottom">
     <span class="ms-2">
-      <i class="fas fa-globe fa-fw"></i>
+      <i class="fas fa-book fa-fw"></i>
       {{ page.title }}
 
-      <!-- count of planets -->
-      <span class="text-muted small ps-2">{{ sorted_planets.size }}</span>
+      <!-- count of lore entries -->
+      <span class="text-muted small ps-2">{{ sorted_lore.size }}</span>
     </span>
 
-    <!-- arrow (disabled since no sub-groups yet) -->
     <span data-bs-toggle="collapse" class="category-trigger hide-border-bottom disabled">
       <i class="fas fa-fw fa-angle-right"></i>
     </span>
   </div>
 
-  <!-- planets list -->
+  <!-- lore list -->
   <div id="{{ LIST_PREFIX }}{{ group_index }}" class="collapse show" aria-expanded="true">
     <ul class="list-group">
-      {% for planet in sorted_planets %}
+      {% for entry in sorted_lore %}
         <li class="list-group-item d-flex justify-content-between align-items-center">
           <span>
-            {% if planet.icon %}
-              <i class="{{ planet.icon }} fa-fw me-2"></i>
+            {% if entry.icon %}
+              <i class="{{ entry.icon }} fa-fw me-2"></i>
             {% else %}
-              <i class="fas fa-globe fa-fw me-2"></i>
+              <i class="fas fa-book fa-fw me-2"></i>
             {% endif %}
-            <a href="{{ planet.url | relative_url }}">{{ planet.title }}</a>
+            <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
           </span>
-          {% if planet.date %}
-            {% include datetime.html date=planet.date class='text-muted small text-nowrap' lang=lang %}
+
+          {% if entry.date %}
+            {% include datetime.html date=entry.date class='text-muted small text-nowrap' lang=lang %}
           {% endif %}
         </li>
       {% endfor %}
@@ -55,5 +55,5 @@ permalink: /planets/
 </div>
 
 {% else %}
-<p class="text-muted fst-italic">_No planets yet..._</p>
+<p class="text-muted fst-italic">_No lore yet..._</p>
 {% endif %}
