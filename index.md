@@ -11,7 +11,7 @@ order: 1
 
   <!-- Hero / Title Section -->
   <div class="text-center mb-5">
-    <h1 class="display-4"><i class="fas fa-home me-2"></i>{{ page.title }}</h1>
+    <h1 class="display-4"><i class="fas fa-old-republic me-2"></i>{{ page.title }}</h1>
     <p class="lead fst-italic">Explore the Star Wars Chronicles - Lore, Systems, Planets, and more.</p>
   </div>
 
