@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"layout":"post","title":"Vindalia","collection":"lore","dg-path":"lore/vindalia","date":"2026-03-10","toc":"true","permalink":"/lore/vindalia/","dgPassFrontmatter":true}
+{"dg-publish":true,"layout":"post","title":"Vindalia","collection":"lore","dg-path":"lore/vindalia","date":"2026-03-10","toc":"true","icon":"fas fa-planet-moon","permalink":"/lore/vindalia/","dgPassFrontmatter":true}
 ---
 
 <h2> Overview </h2>

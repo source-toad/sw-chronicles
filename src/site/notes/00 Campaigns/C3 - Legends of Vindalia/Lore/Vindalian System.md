@@ -1,5 +1,5 @@
 ---
-{"layout":"post","toc":"true","dg-publish":true,"dg-path":"lore/vindalia-system","title":"Vindalia System","collection":"lore","date":"2026-03-12","permalink":"/lore/vindalia-system/","dgPassFrontmatter":true}
+{"layout":"post","toc":"true","dg-publish":true,"dg-path":"lore/vindalia-system","title":"Vindalia System","collection":"lore","date":"2026-03-12","icon":"fas fa-solar-system","permalink":"/lore/vindalia-system/","dgPassFrontmatter":true}
 ---
 
 <h2> Overview </h2>
