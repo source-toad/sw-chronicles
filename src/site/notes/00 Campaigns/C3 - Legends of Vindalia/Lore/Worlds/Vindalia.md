@@ -89,11 +89,11 @@ Despite differences in size and physical appearance, Vindalians are generally co
 
 ## The Broader System
 
-The **Vindalian System** lies in the Mid Rim along a long-distance interstellar corridor known as **Shipwrights’ Trace**. The route passes through a chain of neighbouring systems that early navigators gradually mapped while expanding beyond their home sectors.
+The Vindalian System lies in the Mid Rim along a long-distance interstellar corridor known as Shipwrights’ Trace. The route passes through a chain of neighbouring systems that early navigators gradually mapped while expanding beyond their home sectors.
 
-Shipwrights’ Trace runs roughly parallel to the far busier **Rimma corridor**, a developing interstellar route linking several growing civilizations toward the Coreward regions. While the Rimma route attracts the majority of organised trade and exploration, Shipwrights’ Trace remains a quieter path used by travellers seeking shorter passages between frontier systems or wishing to avoid the growing concentration of activity along the main corridor.
+Shipwrights’ Trace runs roughly parallel to the far busier Rimma corridor, a developing interstellar route linking several growing civilizations toward the Coreward regions. While the Rimma route attracts the majority of organised trade and exploration, Shipwrights’ Trace remains a quieter path used by travellers seeking shorter passages between frontier systems or wishing to avoid the growing concentration of activity along the main corridor.
 
-Because travel between systems in this era is still difficult and relatively slow, the Vindalian System serves primarily as a **regional waypoint** - a place where vessels pause to resupply, exchange goods, or rest crews before continuing along the chain of neighbouring stars that form the Trace.
+Because travel between systems in this era is still difficult and relatively slow, the Vindalian System serves primarily as a regional waypoint - a place where vessels pause to resupply, exchange goods, or rest crews before continuing along the chain of neighbouring stars that form the Trace.
 
 
 ---
@@ -103,7 +103,7 @@ The innermost region contains several small rocky planets orbiting close to the 
 
 One of these inner bodies is a scorched and heavily cratered world rich in exposed metals. Small mining camps occasionally appear here, extracting raw materials before transporting them to the system’s more habitable planets.
 
-Beyond the inner worlds lies a wide **asteroid belt**, composed of metallic debris and fragmented planetary material. Independent mining operations have established scattered extraction stations throughout the belt. Because there is little central authority overseeing these operations, many of the stations function with considerable autonomy.
+Beyond the inner worlds lies a wide asteroid belt, composed of metallic debris and fragmented planetary material. Independent mining operations have established scattered extraction stations throughout the belt. Because there is little central authority overseeing these operations, many of the stations function with considerable autonomy.
 
 ---
 ### The Temperate Worlds
