@@ -4,17 +4,10 @@
 
 <h2> Overview </h2>
 
-Region
-: Outer Rim
-
-Population
-: 4.2 million
-
-Government
-: Mining Guild Council
-
-Climate
-: Arid desert with seasonal dust storms
+**Region:** Outer Rim  
+**Population:** 4.2 million  
+**Government:** Guild Council  
+**Climate:** Arid
 
 Vindalia is a temperate forest world in the Mid Rim, in a system adjacent to one of the early long-distance trade corridors connecting a handful of developing star systems toward the Coreward regions. While it has never been a major hub, occasional travellers, merchants, and scouts pass through the system. 
 
