@@ -4,10 +4,31 @@
 
 <h2> Overview </h2>
 
-**Region:** Outer Rim  
-**Population:** 4.2 million  
-**Government:** Guild Council  
-**Climate:** Arid
+### Planetary Data
+
+- <i class="fas fa-location-dot"></i> **Region:** Outer Rim  
+- <i class="fas fa-users"></i> **Population:** 4.2 million  
+- <i class="fas fa-landmark"></i> **Government:** Guild Council  
+- <i class="fas fa-cloud-sun"></i> **Climate:** Arid  
+- <i class="fas fa-moon"></i> **Moons:** 2
+
+<details>
+<summary><strong>Planetary Data</strong></summary>
+Region: Outer Rim  
+Population: 4.2 million  
+Government: Mining Guild Council  
+Climate: Arid
+</details>
+
+## Planetary Data
+
+- <i class="fas fa-location-dot"></i> **Region:** Outer Rim
+- <i class="fas fa-users"></i> **Population:** 4.2 million
+- <i class="fas fa-landmark"></i> **Government:** Guild Council
+- <i class="fas fa-sun"></i> **Primary Star:** K-type
+- <i class="fas fa-cloud-sun"></i> **Climate:** Arid desert
+- <i class="fas fa-moon"></i> **Moons:** 2
+
 
 Vindalia is a temperate forest world in the Mid Rim, in a system adjacent to one of the early long-distance trade corridors connecting a handful of developing star systems toward the Coreward regions. While it has never been a major hub, occasional travellers, merchants, and scouts pass through the system. 
 
