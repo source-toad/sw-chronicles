@@ -172,8 +172,11 @@ collections:
   tabs:
     output: true
     sort_by: order
-  lore:
+  history:
     output: true
+  worlds:
+    output: true
+
 
 defaults:
   # Standard posts
