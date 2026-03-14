@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Lore
-icon: fas fa-book
-order: 2
-permalink: /lore/
+title: History
+icon: fas fa-landmark
+order: 3
+permalink: /history/
 ---
 
 {% include lang.html %}
@@ -12,18 +12,18 @@ permalink: /lore/
 {% assign LIST_PREFIX = 'l_' %}
 {% assign group_index = 0 %}
 
-{% assign sorted_lore = site.pages | where:"collection","lore" | sort: "title" %}
+{% assign sorted_history = site.pages | where:"collection","history" | sort: "title" %}
 
-{% if sorted_lore.size > 0 %}
-<div class="card lore">
+{% if sorted_history.size > 0 %}
+<div class="card history">
   <!-- header -->
   <div id="{{ HEAD_PREFIX }}{{ group_index }}" class="card-header d-flex justify-content-between hide-border-bottom">
     <span class="ms-2">
-      <i class="fas fa-book fa-fw"></i>
+      <i class="fas fa-landmark fa-fw"></i>
       {{ page.title }}
 
-      <!-- count of lore entries -->
-      <span class="text-muted small ps-2">{{ sorted_lore.size }}</span>
+      <!-- count of history entries -->
+      <span class="text-muted small ps-2">{{ sorted_history.size }}</span>
     </span>
 
     <!-- arrow (disabled since no sub-groups yet) -->
@@ -32,16 +32,16 @@ permalink: /lore/
     </span>
   </div>
 
-  <!-- lore list -->
+  <!-- history list -->
   <div id="{{ LIST_PREFIX }}{{ group_index }}" class="collapse show" aria-expanded="true">
     <ul class="list-group">
-      {% for entry in sorted_lore %}
+      {% for entry in sorted_history %}
         <li class="list-group-item d-flex justify-content-between align-items-center">
           <span>
             {% if entry.icon %}
               <i class="{{ entry.icon }} fa-fw me-2"></i>
             {% else %}
-              <i class="fas fa-book fa-fw me-2"></i>
+              <i class="fas fa-landmark fa-fw me-2"></i>
             {% endif %}
             <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
           </span>
@@ -55,5 +55,5 @@ permalink: /lore/
 </div>
 
 {% else %}
-<p class="text-muted fst-italic">_No lore yet..._</p>
+<p class="text-muted fst-italic">_No history yet..._</p>
 {% endif %}
