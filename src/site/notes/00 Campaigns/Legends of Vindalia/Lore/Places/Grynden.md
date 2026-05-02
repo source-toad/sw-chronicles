@@ -3,9 +3,6 @@
 ---
 
 <h2> Overview </h2>
-
-![6627e0cd-67c2-458a-ac38-3105a061b482.png](/img/user/Images%20&%20Downloads/6627e0cd-67c2-458a-ac38-3105a061b482.png)
-
 Grynden rests in a sheltered valley, cradled by rugged, forested mountains whose narrow ridges and cliffs create natural defenses on nearly all sides. Natural springs bubble up throughout the valley, feeding terraced plots of lush, green land and providing clean water for residents. Settlers were drawn here both for the life-sustaining waters and the defensible position the valley offered during times of potential conflict. Over time, the area’s scenic vistas and reliable resources encouraged a steady population to take root, establishing Grynden as a quiet, enduring settlement amid the mountains.
 
 The city’s growth has been measured rather than explosive. Grynden never developed into a major trade hub; the valley’s narrow confines limit bulk storage and commerce. Most large-scale trade passes through nearby Vareth Pass, where goods transition from river to land transport. Over time, agriculture moved off of the natural terraces to the limited open plains in the surrounding regions, establishing the necessity of Vareth Pass as the waypoint between produce and artisanal production. Its economy centers on artisanal production, workshops, and mills, with local guilds ensuring both the quality of goods and the stability of the workforce. Air travelers, drawn to the valley’s springs and vistas, add a modest but consistent flow of commerce.
