@@ -1,9 +1,9 @@
 ---
-{"layout":"post","toc":"true","dg-publish":true,"dg-path":"places/vareth-pass","title":"Vareth Pass","collection":"places","date":"2026-03-10","permalink":"/places/vareth-pass/","dgPassFrontmatter":true}
+{"layout":"post","toc":"true","dg-publish":true,"dg-path":"places/vareth-pass","title":"Vareth Pass","collection":"places","date":"2026-05-03","permalink":"/places/vareth-pass/","dgPassFrontmatter":true}
 ---
 
 <h2> Overview </h2>
-Vareth Pass is a centuries‑old settlement perched at the point where the rivers across the plans curve around the mountain rounge. Its very location is defined by the narrow mountain pass which faciliates all major ground transport into the mountain city of Grynden.
+Vareth Pass is a centuries‑old settlement perched at the point where the rivers across the plains converge and curve around the mountain range. Its very location is defined by the narrow mountain pass which faciliates all major ground transport into the mountain city of Grynden.
 
 The settlement grew initially as an outpost, a cluster of fortified buildings and stables serving travelers and traders before beginning the once treacherous journey into Grynden. Over the centuries, the pass was widened, fortified, and in places bored through the mountain to better facilitate the transport of bulk goods from the Upland farmlands. Vareth Pass slowly transformed into a freight hub, where barges arrive via river, and caravans load grain, timber, stone for transport.
 

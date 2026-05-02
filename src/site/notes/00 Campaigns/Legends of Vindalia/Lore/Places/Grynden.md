@@ -1,5 +1,5 @@
 ---
-{"layout":"post","toc":"true","dg-publish":true,"dg-path":"places/grynden","title":"Grynden","collection":"places","date":"2026-03-10","permalink":"/places/grynden/","dgPassFrontmatter":true}
+{"layout":"post","toc":"true","dg-publish":true,"dg-path":"places/grynden","title":"Grynden","collection":"places","date":"2026-05-03","permalink":"/places/grynden/","dgPassFrontmatter":true}
 ---
 
 <h2> Overview </h2>
